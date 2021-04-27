@@ -1,6 +1,6 @@
 # PyQt5-Key-QR-Generator
 
-Key and QR generator using [qrcode]("https://pypi.org/project/qrcode/") displayed using PyQt5, key generator logic implement from [here]("https://gist.github.com/howCodeORG/4b456d334a85b516c0860b7495ff9d18")
+Key and QR generator using [qrcode](https://pypi.org/project/qrcode/) displayed using PyQt5, key generator logic implement from [here](https://gist.github.com/howCodeORG/4b456d334a85b516c0860b7495ff9d18)
 
 Run python files:
 ```
